@@ -1,0 +1,1 @@
+# JavaScript-function-which-accepts-an-argument-and-returns-the-type
